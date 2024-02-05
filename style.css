@@ -1,0 +1,44 @@
+.color-ch{
+    color:rgb(0, 0, 0)
+}
+
+p{
+    color:rgb(0, 0, 0)
+}
+ul,li,a {color:rgb(69, 46, 19)
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.589);
+}
+footer p {
+    color:rgb(230, 230, 230)
+}
+footer p
+{
+    font-weight: bold;
+    font-style: italic;
+}
+#logo-img {
+    width: 100px;
+    height: 100px;  
+}
+.title{
+    color:dimgrey
+}
+ul,header {
+    display : flex
+}
+
+header {
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px 10px 30px;
+    background-color: #34473965;
+    margin: 25px 25px;
+}
+
+ul{
+    list-style: none;
+    gap: 30px;
+    
+}
